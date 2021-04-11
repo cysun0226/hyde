@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio
 ---
 
-## [Projects]({% link _posts/2021-04-11-projects.md %})
+## Projects [[link]]({% link _posts/2021-04-11-projects.md %})
 * Hyper-parameter optimization service
 * Deep Learning - NEU Surface Defect by YOLOv3
 * MCTS Parallelization on a Raspberry PI cluster
