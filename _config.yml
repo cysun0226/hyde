@@ -11,7 +11,7 @@ title:            Chia-Yu
 tagline:          'github page'
 description:      "Graduate student in NYCU CS. Welcome to my personal website!"
 url:              https://cysun0226.github.io/
-baseurl:          ''
+baseurl:          https://cysun0226.github.io/
 
 paginate:         5
 
