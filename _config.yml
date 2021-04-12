@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Chia-Yu Sun
 tagline:          'github page'
-description:      "Graduate student in NYCU CS. Welcome to my personal website!"
+description:      "A graduate student in NCTU CS. Welcome to my personal website!"
 url:              https://cysun0226.github.io/
 baseurl:          https://cysun0226.github.io/
 
