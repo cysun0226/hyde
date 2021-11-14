@@ -19,3 +19,6 @@ permalink: /portfolio
 ## Courses
 * [Network Programming](https://github.com/cysun0226/network-programming)
 * [Parallel Programming](https://github.com/cysun0226/parallel-programming)
+
+## Old Portfolio
+* [Link (in Chinese)](https://hackmd.io/iXvCxayiTG2Y_ChO1geRiA?view)
